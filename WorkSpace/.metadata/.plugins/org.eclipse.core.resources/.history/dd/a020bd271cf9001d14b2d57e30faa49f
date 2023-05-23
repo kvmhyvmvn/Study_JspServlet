@@ -1,0 +1,13 @@
+package dto;
+
+public class KhmDTO {
+	public int num;
+	public String str;
+	
+	public KhmDTO(int num, String str) {
+		super();
+		this.num = num;
+		this.str = str;
+	}
+	
+}

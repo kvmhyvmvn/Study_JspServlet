@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>JSTL 사용 ( EL 문법 사용 (Express Language 자바 표현문법) )</h1>
+	<p>JSP 개발을 좀 더 편하고 단순화하기 위한 태그 라이브러리 ( JSTL )</p>
+	<p>JSTL : Jsp Standard Tag Library</p>
+</body>
+</html>
