@@ -24,10 +24,10 @@ public class KhmController extends HttpServlet {
 			ArrayList<KhmVO> list = new ArrayList<>();
 			// <> <- Object를 상속받은 Class타입만 넣을 수 있음
 			for (int i = 0; i < 10; i++) {
-				KhmVO vo = new KhmVO();
-				vo.setField1("필드" + i);
-				vo.setField2(10);
-				list.add(vo);
+				// KhmVO vo = new KhmVO();
+				// vo.setField1("필드" + i);
+				// vo.setField2(10);
+				// list.add(vo);
 			}
 			req.setAttribute("list", list);
 			rd = req.getRequestDispatcher("khm/list.jsp");

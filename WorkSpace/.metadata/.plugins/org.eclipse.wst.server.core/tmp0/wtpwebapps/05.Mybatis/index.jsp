@@ -41,7 +41,7 @@
 					khm/list.jsp <= 이 파일이 실행되고
 					el과 jstl을 사용해서 보여준다.
 				 -->
-				<li><a href="#">게시판</a></li>
+				<li><a href="mybatis.bat">mybatis</a></li>
 			</ul>
 
 
