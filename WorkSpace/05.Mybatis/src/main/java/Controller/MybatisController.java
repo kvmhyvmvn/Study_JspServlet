@@ -14,8 +14,6 @@ import khm.KhmDAO;
 @WebServlet("*.bat")
 public class MybatisController extends HttpServlet {
 	
-	RequestDispatcher rd;
-	
 	@Override
 	protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		System.out.println("아무글자");
